@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Image>
+  <aktivnost active="true"></aktivnost>
+  <visina vis="2"></visina>
+  <sirina sir="2"></sirina>
+  <Broj_layera br="2">
+    <Layer>
+      <visible vidljiv="true"></visible>
+      <aktivnost active="true"></aktivnost>
+      <prozirnost prozir="80" ></prozirnost>
+      <Pikseli>
+        <Piksel red ="50" green ="68" blue="69" alfa="100" ></Piksel>
+        <Piksel red ="20" green ="68" blue="69" alfa="100" ></Piksel>
+        <Piksel red ="10" green ="68" blue="69" alfa="100" ></Piksel>
+        <Piksel red ="80" green ="68" blue="69" alfa="100" ></Piksel>
+      </Pikseli>   
+    </Layer>
+    
+    <Layer>
+      <visible vidljiv="true"></visible>
+      <aktivnost active="false"></aktivnost>
+      <prozirnost prozir="50" ></prozirnost>
+      <Pikseli>
+        <Piksel red ="110" green ="68" blue="69" alfa="100" ></Piksel>
+        <Piksel red ="30" green ="68" blue="69" alfa="100" ></Piksel>
+        <Piksel red ="70" green ="68" blue="69" alfa="100" ></Piksel>
+        <Piksel red ="90" green ="68" blue="69" alfa="100" ></Piksel>
+      </Pikseli>   
+    </Layer>
+    
+  </Broj_layera>
+
+  <Broj_selekcija br="2">
+    <Selekcija>
+      <name ime="PrvaSelekcija"></name>
+      <aktivnost active="true"></aktivnost>
+      <Broj_pravougaonika br="1">
+        <Pravougaonik y1="50" x1="50" visina ="100" sirina="100"></Pravougaonik>
+      </Broj_pravougaonika>
+    </Selekcija>
+
+    <Selekcija>
+      <name ime="DrugaSelekcija"></name>
+      <aktivnost active="false"></aktivnost>
+      <Broj_pravougaonika br="2">
+        <Pravougaonik y1="250" x1="250" visina ="100" sirina="100"></Pravougaonik>
+        <Pravougaonik y1="150" x1="150" visina ="100" sirina="100"></Pravougaonik>
+      </Broj_pravougaonika>
+    </Selekcija>
+  </Broj_selekcija>
+
+  <Broj_funkcija br="1">
+    <kompozitna ime="MojaKompozitna" br="2">
+      <funkcija ime="sabiranje" par="3"></funkcija>
+      <funkcija ime="oduzimanje" par="5"></funkcija>
+     </kompozitna>
+  </Broj_funkcija>
+</Image>

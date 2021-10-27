@@ -1,0 +1,42 @@
+﻿  BMP.cpp
+  Formater.cpp
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Formater.cpp(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Formater.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Image.cpp
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Image.cpp(110,56): warning C4244: 'argument': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Image.cpp(110,50): warning C4244: 'argument': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Image.cpp(110,43): warning C4244: 'argument': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Image.cpp(110,38): warning C4244: 'argument': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+  layer.cpp
+  main.cpp
+  Operations.cpp
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(52,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(103,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(155,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(206,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(257,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(308,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(359,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(410,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(462,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(514,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(566,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(618,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(664,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(709,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(859,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(973,26): warning C4101: 'e': unreferenced local variable
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(993,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\rapidxml_utils.hpp(40,25): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\rapidxml_utils.hpp(28): message : while compiling class template member function 'rapidxml::file<char>::file(const char *)'
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(937): message : see reference to function template instantiation 'rapidxml::file<char>::file(const char *)' being compiled
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Operations.cpp(937): message : see reference to class template instantiation 'rapidxml::file<char>' being compiled
+  PAM.cpp
+  XMLConverter.cpp
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\XMLConverter.cpp(192,25): warning C4101: 'e': unreferenced local variable
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\rapidxml_utils.hpp(40,25): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\rapidxml_utils.hpp(28): message : while compiling class template member function 'rapidxml::file<char>::file(const char *)'
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\XMLConverter.cpp(23): message : see reference to function template instantiation 'rapidxml::file<char>::file(const char *)' being compiled
+C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\XMLConverter.cpp(23): message : see reference to class template instantiation 'rapidxml::file<char>' being compiled
+  Generating Code...
+  ImageProcessingC++.vcxproj -> C:\Users\vulov\OneDrive\Documents\date\moje\fakultet\godina2\semestar 4\poop\ImageProcessingC++\Debug\ImageProcessingC++.exe
